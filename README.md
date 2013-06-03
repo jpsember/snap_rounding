@@ -13,6 +13,8 @@ can be found [here](notes/hsnap.pdf).
  
 The program can be run as an application; its main class is snap.Main.class.
 It can also be run as an applet, by loading the page "Applet.html" within a browser
-(or from the command line: "appletviewer Applet.html").
+(or from the command line: "appletviewer Applet.html"); it also can be found 
+on [this page](http://www.cs.ubc.ca/~jpsember/sr.html).
+
 
 
